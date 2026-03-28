@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CPSC-349-Homework-3/static/css/main.83c32e24.css",
+    "main.js": "/CPSC-349-Homework-3/static/js/main.00df6070.js",
+    "index.html": "/CPSC-349-Homework-3/index.html",
+    "main.83c32e24.css.map": "/CPSC-349-Homework-3/static/css/main.83c32e24.css.map",
+    "main.00df6070.js.map": "/CPSC-349-Homework-3/static/js/main.00df6070.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83c32e24.css",
+    "static/js/main.00df6070.js"
+  ]
+}
